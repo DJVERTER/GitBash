@@ -1,3 +1,3 @@
-fils fgty bada shmada vorada, tfgh
+fils fgty bada shmada vorada, tfgh, git reset
 
 
