@@ -3,4 +3,8 @@
 3: Git push-upload on GitHub the changed items
 4: Git reset,soft, mixed, hard(~1)-reset to desired changes 
 5: Git checkout-navigation on commit
-4
+4: Git commit -a -m "...."-git add . + git commit -m, not add untracked files
+5: Git ammend - perepiska poslednego comitta
+6: :wq-escape from vim
+7: Git clean -n-delete untracked files
+8: Git clean -f-confirm delete untracked files
