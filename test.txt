@@ -3,4 +3,4 @@
 3: Git push-upload on GitHub the changed items
 4: Git reset,soft, mixed, hard(~1)-reset to desired changes 
 5: Git checkout-navigation on commit
-
+4
