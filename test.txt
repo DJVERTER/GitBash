@@ -10,3 +10,12 @@
 8: Git clean -f-confirm delete untracked files
 9: Git push, pull-push and extract from repositories
 10: Git remote, remote -v-
+11: SSH
+12: Git branch name_branch-create nev branch
+13: Git branch -d name_branch-delete branch
+14: Git checkout name_branch-navigation on branch
+15: Git merge name_branchthe-merge branch
+16: Fast - Forward merge-no changed in master branch
+17: Recursive -changed diverse files in master branch
+18: Git pull-download the branch 
+ 
