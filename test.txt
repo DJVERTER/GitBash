@@ -17,5 +17,10 @@
 15: Git merge name_branchthe-merge branch
 16: Fast - Forward merge-no changed in master branch
 17: Recursive -changed diverse files in master branch
-18: Git pull-download the branch 
- 
+18: Git pull-download the branch
+19: Git merge conflict
+20: Git Branching
+21: Git remote show origin- show status of all the branches
+22: Git push --delete origin name_branches
+23: Gir rebase- merge vithout commit
+
