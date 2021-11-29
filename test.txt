@@ -22,5 +22,6 @@
 20: Git Branching
 21: Git remote show origin- show status of all the branches
 22: Git push --delete origin name_branches
-23: Gir rebase- merge vithout commit
+23: Git rebase- merge vithout commit
+24: Git rebase -i HEAD~3 - Interactive rebase(pick,reword,edit,squash,fixup,exec,drop)
 
