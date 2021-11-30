@@ -5,7 +5,7 @@
 5: Git checkout-navigation on commit
 4: Git commit -a -m "...."-git add . + git commit -m, not add untracked files
 5: Git ammend - perepiska poslednego comitta
-6: :wq-escape from vim
+6: :wq-escape from vim, i-into the redaction, & esc for escape, ls list of file
 7: Git clean -n-delete untracked files
 8: Git clean -f-confirm delete untracked files
 9: Git push, pull-push and extract from repositories
@@ -24,4 +24,5 @@
 22: Git push --delete origin name_branches
 23: Git rebase- merge vithout commit
 24: Git rebase -i HEAD~3 - Interactive rebase(pick,reword,edit,squash,fixup,exec,drop)
+25: Git cherry-pick
 
